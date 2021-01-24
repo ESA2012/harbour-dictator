@@ -1,0 +1,60 @@
+import QtQuick 2.0
+
+QtObject {
+    readonly property string p0: qsTr("introduce conscription")
+    readonly property string p1: qsTr("requisition land for training")
+    readonly property string p2: qsTr("attack all guerilla bases")
+    readonly property string p3: qsTr("attack guerilla bases in leftoto")
+    readonly property string p4: qsTr("sack the secret police chief")
+    readonly property string p5: qsTr("expel Russian military advisors")
+    readonly property string p6: qsTr("increase the pay of the troops")
+    readonly property string p7: qsTr("buy more arms and ammunition")
+    readonly property string p8: qsTr("stop army sign-up coercion")
+    readonly property string p9: qsTr("increase the asic minimum wage")
+    readonly property string p10: qsTr("cut the powers of the Secrets Police")
+    readonly property string p11: qsTr("stop Leftotan immigrant workers")
+    readonly property string p12: qsTr("introduce free education for all")
+    readonly property string p13: qsTr("legalise the formation of unions")
+    readonly property string p14: qsTr("free their imprisoned leader")
+    readonly property string p15: qsTr("start a public lottery")
+    readonly property string p16: qsTr("stop military use of their land")
+    readonly property string p17: qsTr("lower the basic minimum wage")
+    readonly property string p18: qsTr("nationalise American businesses")
+    readonly property string p19: qsTr("levy duty on all leftoto imports")
+    readonly property string p20: qsTr("cut spending on the Secret Police")
+    readonly property string p21: qsTr("decrease heavy land taxation")
+    readonly property string p22: qsTr("release troops to work the land")
+    readonly property string p23: qsTr("build a large irrigation system")
+
+    readonly property string n0: qsTr("President loses Secret Police files")
+    readonly property string n1: qsTr("Cubans arm and train guerillas")
+    readonly property string n2: qsTr("Accident: Army barracks blows up")
+    readonly property string n3: qsTr("Banana prices fall by 98%")
+    readonly property string n4: qsTr("Major earthquake in Leftoto")
+    readonly property string n5: qsTr("A plague sweeps through peasants")
+
+    // 1. PLEASE a GROUP
+    readonly property string d0: qsTr("Make army chief Vice-President")
+    readonly property string d1: qsTr("Set up free clinics for workers")
+    readonly property string d2: qsTr("Give landowners regional powers")
+    readonly property string d3: qsTr("Sell American arms to Leftoto")
+    readonly property string d4: qsTr("Sell mining rights to U.S. firms")
+    readonly property string d5: qsTr("Rent the Russians a naval base")
+    // 2. PLEASE ALL GROUPS
+    readonly property string d6: qsTr("Decrease general taxation level")
+    readonly property string d7: qsTr("Stage a big popularity campaign")
+    readonly property string d8: qsTr("Cut Secret Police powers completely")
+    // 3. IMPROVE your CHANCES
+    readonly property string d9: qsTr("Increase Secret Police powers a lot")
+    readonly property string d10: qsTr("Increase your bodyguard")
+    readonly property string d11: qsTr("Buy an escape helicopter")
+    readonly property string d12: qsTr("See to your Swiss Bank account")
+    // 4.RAISE some CASH
+    readonly property string d13: qsTr("Ask the russians for a loan")
+    readonly property string d14: qsTr("Ask americans for foreign aid")
+    readonly property string d15: qsTr("Nationalise leftotan businesses")
+    // 5.STRENGTHEN a GROUP
+    readonly property string d16: qsTr("Buy heavy artillery for the army")
+    readonly property string d17: qsTr("Allow peasants free movement")
+    readonly property string d18: qsTr("Allow landowners private militia")
+}
