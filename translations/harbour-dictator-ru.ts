@@ -416,19 +416,19 @@
     </message>
     <message>
         <source>Based on remake written by</source>
-        <translation>Основано на римейке</translation>
+        <translation>Основано на ремейке</translation>
     </message>
     <message>
         <source>kastian</source>
-        <translation>kastian</translation>
+        <translation></translation>
     </message>
     <message>
-        <source>Sailfish OS version (rewritten in javascript, don&apos;t ask me why)</source>
-        <translation>Версия для Sailfish (переписана на javascript, не спрашивайте, зачем)</translation>
+        <source>snk/ESA2012</source>
+        <translation></translation>
     </message>
     <message>
-        <source>SnakE</source>
-        <translation>SnakE</translation>
+        <source>Sailfish OS version by</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8,9 +8,6 @@ import net.snk 1.0
 
 ApplicationWindow
 {
-    GameService {
-        id: gameService
-    }
 
     initialPage: Component {
         ViewIntro {
@@ -24,6 +21,6 @@ ApplicationWindow
     allowedOrientations: defaultAllowedOrientations
 
     Component.onCompleted: {
-        DictatorGame.initialize(pageStack, gameService)
+        DictatorGame.initialize(pageStack, GameService)
     }
 }

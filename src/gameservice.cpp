@@ -73,3 +73,8 @@ QString GameService::getHashForHistory(int history)
     hash.addData((QString::number(history)).toUtf8());
     return QString(hash.result().toHex());
 }
+
+QString GameService::getVersion()
+{
+    return QString(APP_VERSION);
+}

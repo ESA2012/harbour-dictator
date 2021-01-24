@@ -477,58 +477,58 @@
 <context>
     <name>ViewAbout</name>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="19"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="22"/>
         <source>Dictator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="35"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="38"/>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="26"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="29"/>
         <source>Remake of old ZX Spectrum game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="40"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="44"/>
         <source>Originally devised and written by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="41"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="45"/>
         <source>Don Priestley</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="45"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="49"/>
         <source>Russian translation (original)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="46"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="50"/>
         <source>Ю. и Н. Родионовы</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="50"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="54"/>
         <source>Based on remake written by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="51"/>
+        <location filename="../qml/pages/ViewAbout.qml" line="55"/>
         <source>kastian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="55"/>
-        <source>Sailfish OS version (rewritten in javascript, don&apos;t ask me why)</source>
+        <location filename="../qml/pages/ViewAbout.qml" line="59"/>
+        <source>Sailfish OS version by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewAbout.qml" line="56"/>
-        <source>SnakE</source>
+        <location filename="../qml/pages/ViewAbout.qml" line="60"/>
+        <source>snk/ESA2012</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -422,11 +422,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sailfish OS version (rewritten in javascript, don&apos;t ask me why)</source>
+        <source>snk/ESA2012</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SnakE</source>
+        <source>Sailfish OS version by</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -12,6 +12,8 @@
 # The name of your application
 TARGET = harbour-dictator
 
+DEFINES += APP_VERSION=\\\"$$VERSION\\\"
+
 CONFIG += sailfishapp
 
 QT += core

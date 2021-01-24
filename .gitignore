@@ -1,4 +1,3 @@
 /rpm/*.in
 /rpm/*.spec
-/rpm/*.yaml
 *.user

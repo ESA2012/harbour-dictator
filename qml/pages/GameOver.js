@@ -27,7 +27,8 @@ function view(main, DATA) {
         total: result.total,
         swiss: result.swiss,
         popularity: result.popularity,
-        history: result.history
+        history: result.history,
+        isNewRecord: result.isNewRecord
     }
 
     main.view("ViewGameOver.qml", props);

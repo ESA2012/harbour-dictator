@@ -1,7 +1,10 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 
+import net.snk 1.0
+
 Page {
+
     SilicaFlickable {
         anchors.fill: parent
 
@@ -33,7 +36,8 @@ Page {
 
             DetailItem {
                 label: qsTr("Version")
-                value: "0.9"
+
+                value: GameService.getVersion()
             }
 
             DetailItem {
@@ -52,8 +56,8 @@ Page {
             }
 
             DetailItem {
-                label: qsTr("Sailfish OS version (rewritten in javascript, don't ask me why)")
-                value: qsTr("SnakE")
+                label: qsTr("Sailfish OS version by")
+                value: qsTr("snk/ESA2012")
             }
         }
     }

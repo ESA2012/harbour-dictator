@@ -16,6 +16,7 @@ public:
     ~GameService();
     Q_INVOKABLE void saveHistory(int history);
     Q_INVOKABLE int loadHistory();
+    Q_INVOKABLE QString getVersion();
 
 private:
     QString getHashForHistory(int history);
