@@ -28,7 +28,7 @@ Page {
     Timer {
         id: timer
         repeat: false
-        interval: 2000
+        interval: 3000
         running: true
         onTriggered: onAction({})
     }

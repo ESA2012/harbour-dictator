@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>introduce free education for all</source>
-        <translation>предоставить свободное бесплатное обучение</translation>
+        <translation>ввести всеобщее бесплатное образование</translation>
     </message>
     <message>
         <source>legalise the formation of unions</source>
@@ -428,7 +428,7 @@
     </message>
     <message>
         <source>Sailfish OS version by</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия для Sailfish OS</translation>
     </message>
 </context>
 <context>

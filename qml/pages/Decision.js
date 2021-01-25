@@ -100,8 +100,9 @@ function view(main, DATA) {
         var decisionsList = []
 
         for (a = start_end[0]; a <= start_end[1]; a++) {
-            if (!DATA.DECISION[a].used) {
-                decisionsList.push(DATA.DECISION[a]);
+            var decToView = DATA.DECISION[a];
+            if (!decToView.used) {
+                decisionsList.push(decToView);
             }
         }
 

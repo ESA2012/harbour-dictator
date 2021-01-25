@@ -188,6 +188,8 @@ function reset_plot() {
 function plot() {
     console.log("Recount chances to assasination/revolution");
 
+    SWISS_BANK.used = treasury <= 0;
+
     if (month < 3) return;
 
     reset_plot();
@@ -217,6 +219,7 @@ function calcTreasury() {
         treasury -= monthly_cost;
         return true;
     }
+
     return false;
 }
 

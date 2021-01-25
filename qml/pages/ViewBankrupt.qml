@@ -21,7 +21,6 @@ Page {
             width: parent.width - Theme.horizontalPageMargin * 2
             height: contentHeight + Theme.paddingMedium * 2
             anchors.centerIn: parent
-            font.bold: true
             anchors.margins: {
                 left: Theme.paddingLarge
                 right: Theme.paddingLarge
@@ -32,11 +31,13 @@ Page {
                 color: "orange"
             }
         }
+    }
 
-        ButtonOk {
-            anchors.bottom: parent.bottom
-            anchors.bottomMargin: Theme.paddingLarge
-            onClicked: onAction({})
-        }
+    Timer {
+        id: timer
+        repeat: false
+        interval: 3000
+        running: true
+        onTriggered: onAction({})
     }
 }
