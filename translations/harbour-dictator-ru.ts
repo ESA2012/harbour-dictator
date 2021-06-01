@@ -1045,17 +1045,23 @@
         <translation>Война началась!</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Helicopter engine failure&lt;/b&gt;&lt;br/&gt;You are judged to be an
-enemy of the people and...&lt;br/&gt;&lt;b&gt;summarily executed&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Вертолет не смог взлететь&lt;/b&gt;&lt;br/&gt;Вас судили как врага народа и&lt;br/&gt;&lt;b&gt;приговорили к казни&lt;/b&gt;</translation>
-    </message>
-    <message>
         <source>Ritimban strength is</source>
         <translation>Силы Ритимбании</translation>
     </message>
     <message>
         <source>Leftotan strength is</source>
         <translation>Силы Лефтото</translation>
+    </message>
+    <message>
+        <source>Helicopter engine failure</source>
+        <translation>Ваш вертолёт не смог взлететь</translation>
+    </message>
+    <message>
+        <source>You are judged to be an
+enemy of the people and...
+summarily executed</source>
+        <translation>Вас судили как врага народа и...
+приговорили к казни</translation>
     </message>
 </context>
 <context>

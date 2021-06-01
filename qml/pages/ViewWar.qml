@@ -12,7 +12,8 @@ Page {
         readonly property string win: qsTr("Leftotans routed!")
         readonly property string lose: qsTr("Leftotan victory...")
         readonly property string escaped: qsTr("You escape by helicopter")
-        readonly property string executed: qsTr("<b>Helicopter engine failure</b><br/>You are judged to be an\nenemy of the people and...<br/><b>summarily executed</b>")
+        readonly property string heliBroken: qsTr("Helicopter engine failure")
+        readonly property string executed: qsTr("You are judged to be an\nenemy of the people and...\nsummarily executed")
     }
 
     Component {

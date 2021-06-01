@@ -472,11 +472,12 @@ function warResult() {
 
         rand = Utils.random(3);
 
-        var heli_used = HELICOPTER.used && rand;
-
-        if (heli_used) {
+        if (HELICOPTER.used && rand) {
             result.push("escaped");
         } else {
+            if (HELICOPTER.used) {
+                result.push("heliBroken");
+            }
             result.push("executed");
             alive = 0;
         }

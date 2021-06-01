@@ -1044,16 +1044,21 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Helicopter engine failure&lt;/b&gt;&lt;br/&gt;You are judged to be an
-enemy of the people and...&lt;br/&gt;&lt;b&gt;summarily executed&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ritimban strength is</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Leftotan strength is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Helicopter engine failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are judged to be an
+enemy of the people and...
+summarily executed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

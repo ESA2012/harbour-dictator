@@ -1256,27 +1256,39 @@
 <context>
     <name>ViewWar</name>
     <message>
-        <location filename="../qml/pages/ViewWar.qml" line="35"/>
+        <location filename="../qml/pages/ViewWar.qml" line="15"/>
+        <source>Helicopter engine failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/ViewWar.qml" line="16"/>
+        <source>You are judged to be an
+enemy of the people and...
+summarily executed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/ViewWar.qml" line="36"/>
         <source>WAR!!!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewWar.qml" line="115"/>
+        <location filename="../qml/pages/ViewWar.qml" line="116"/>
         <source>Ritimban strength is</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewWar.qml" line="120"/>
+        <location filename="../qml/pages/ViewWar.qml" line="121"/>
         <source>Leftotan strength is</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewWar.qml" line="72"/>
+        <location filename="../qml/pages/ViewWar.qml" line="73"/>
         <source>Leftoto invades</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/ViewWar.qml" line="96"/>
+        <location filename="../qml/pages/ViewWar.qml" line="97"/>
         <source>A short decisive war</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1293,12 +1305,6 @@
     <message>
         <location filename="../qml/pages/ViewWar.qml" line="14"/>
         <source>You escape by helicopter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/ViewWar.qml" line="15"/>
-        <source>&lt;b&gt;Helicopter engine failure&lt;/b&gt;&lt;br/&gt;You are judged to be an
-enemy of the people and...&lt;br/&gt;&lt;b&gt;summarily executed&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
